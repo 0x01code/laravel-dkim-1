@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Vitalybaev\\LaravelDkim\\": "src/"
+            "ox01code\\LaravelDkim\\": "src/"
         }
     }
 }
