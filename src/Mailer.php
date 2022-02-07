@@ -1,6 +1,6 @@
 <?php
 
-namespace Vitalybaev\LaravelDkim;
+namespace ox01code\LaravelDkim;
 
 use Swift_Message;
 
