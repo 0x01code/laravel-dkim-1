@@ -4,7 +4,7 @@ Package, that allows sign emails with DKIM.
 ## Installation
 1. Install via Composer:
 ```
-composer require vitalybaev/laravel-dkim
+composer require ox01code/laravel-dkim
 ```
 
 2. In `config/app.php` comment line with original service provider:
@@ -14,7 +14,7 @@ composer require vitalybaev/laravel-dkim
 
 3. In `config/app.php` add following line to provider's section:
 ```
-Vitalybaev\LaravelDkim\DkimMailServiceProvider::class,
+ox01code\LaravelDkim\DkimMailServiceProvider::class,
 ```
 
 4. Fill your settings in `config/mail.php`:
